@@ -29,7 +29,7 @@ fi
 
 echo -e "\nPiKISS\n======\n\nInstalling at ${INSTALL_DIR}/piKiss. Please wait...\n"
 sudo apt install -y dialog
-git clone https://github.com/jmcerrejon/PiKISS.git piKiss && cd "$_"
+git clone https://github.com/rdp-studio/PiKISS.git piKiss && cd "$_"
 mkDesktopEntry
 sleep 3
 echo -e "\n\nPiKISS installed ! .::. cd ${HOME}/piKiss, type or click ./piKiss.sh. You have an Menu shortcut, too! . Go to:\n\n · Raspberry Pi OS: Menu > System Tools > PiKISS\n\n · Twister OS: Menu > Accesories > PiKISS\n"
