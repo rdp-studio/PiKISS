@@ -13,7 +13,7 @@ check_board || { echo "Missing file helper.sh. I've tried to download it for you
 
 VERSION="v.1.6.0"
 IP=$(get_ip)
-TITLE="PiKISS (Pi Keeping It Simple, Stupid!) ${VERSION} .:. Jose Cerrejon | IP=${IP} ${CPU}| Model=${MODEL}"
+TITLE="PiKISS (Pi Keeping It Simple, Stupid!) ${VERSION} .:. RDPStudio | IP=${IP} ${CPU}| Model=${MODEL}"
 CHK_UPDATE=0
 CHK_PIKISS_UPDATE=0
 NOINTERNETCHECK=0
