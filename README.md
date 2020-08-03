@@ -181,10 +181,10 @@ What some users have said about **PiKISS**:
 
 ## [ Installation ]
 
-Just type:
+This is a fork version,only use for me,if you still want to install,Just type:
 
 <pre>
-curl -sSL https://git.io/JfAPE | bash
+curl -sSL https://git.io/JJwrF | bash
 </pre>
 
 ## [ Update ]
